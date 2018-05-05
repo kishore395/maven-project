@@ -11,8 +11,10 @@ public class Greeter {
   public Greeter() {
 
   }
-
-  //TO-DO: Add javadoc comment
+  
+ /**
+   * This is a constructor.
+   */
   public final String greet(final String someone) {
     return String.format("Hello, %s!", someone);
   }
