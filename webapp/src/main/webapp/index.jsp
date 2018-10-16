@@ -1,2 +1,2 @@
 Hello, Kishore!
-Enabled poll scm to trigger build automatically!
+Trigger from Git client! to build auto!
